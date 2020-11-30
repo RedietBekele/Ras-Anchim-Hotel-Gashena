@@ -1,0 +1,219 @@
+body{
+  font-family: 'Playfair Display SC', serif;
+}
+
+p{
+  width: 100%
+  padding:10% 7%;
+  font-size: 1.2rem;
+  line-height: 1.5;
+  color: grey;
+}
+
+
+
+/* Navigation bar*/
+
+.navbar{
+  padding: 0 0 4.5rem;
+}
+.navbar-brand{
+  font-family:"Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+ .nav-item{
+   padding:0 18px;
+
+ }
+
+.nav-link{
+  font-size: 1.2rem;
+  font-family: 'Playfair Display SC', serif;
+  color: #000;
+}
+
+/* button-section*/
+
+.book-now-button{
+  margin:  5% 3% 5% 0;
+
+}
+.book-now-button:hover{
+  color: #b99365;
+}
+
+/*title-section*/
+
+#title{
+  color: #fff;
+  background-image: url("../../Ras anchim/images/terara.jpg");
+  background-repeat: no-repeat
+  background-position: center;
+  width: 100%;
+
+}
+.big-brand{
+  font-family:'Playfair Display SC', serif;
+  font-size: 7rem;
+  font-weight: bold;
+  padding-bottom: 3%;
+  line-height: 1.5;
+}
+
+.big-heading{
+  text-align: center;
+  font-family: 'Playfair Display SC', serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+
+}
+.container-fluid{
+  padding: 3% 17% 7%;
+}
+
+/*Features section*/
+
+#features{
+  background-image: url("../../Ras anchim/images/white.jpg");
+  background-position: center;
+
+
+}
+.row{
+  text-align: center;
+
+}
+.cafe-image{
+  width: 120%;
+
+}
+.room-single-image{
+  width: 115%;
+
+}
+.restaurant-image{
+  width: 120%;
+
+}
+
+.feature-title{
+  font-size: 3rem;
+  text-align: center;
+  padding-top: 5%;
+  color:#b99365;
+}
+
+.feature-text {
+  color:#b99365;
+  font-size: 3rem;
+  text-align: left;
+  padding: 10% 1% 1% 1%;
+}
+.features-box{
+  padding:3% 5%;
+}
+.features-text{
+  color: grey;
+  line-height: 1.5;
+  text-align: left;
+  padding:1% 1%;
+
+}
+
+/*Reservation section*/
+
+.testimonial-text{
+  font-size: 3rem;
+  line-height: 1.5;
+  text-align: center;
+  color: #b99365;
+  padding: 3% 5%;
+}
+
+.testimonial-image{
+  width: 100%;
+  position: relative;
+}
+
+.carousel-item{
+
+}
+/* pricing section*/
+
+#pricing{
+  padding: 3% 2%;
+  background-image: url("../../Ras anchim/images/white.jpg");
+  background-position: center;
+  width: 100%;
+}
+
+.Pricing-text{
+  font-size: 3rem;
+  line-height: 1.5;
+  color:grey;
+}
+
+.pricing-column{
+  padding: 3% 2%;
+}
+.section-heading{
+  text-align: center;
+  line-height: 1.5;
+  font-size: 5rem;
+  color:#b99365;
+}
+.detail{
+  text-align: center;
+  line-height: 1.5;
+  font-size: 3rem;
+  color:#b99365;
+}
+
+/* call to action--*/
+
+#cta{
+  text-align: center;
+  padding: 3% 2%;
+  color:#b99365;
+}
+.contact-us{
+  color: grey;
+  text-align: center;
+  font-size: 2rem;
+  line-height: 1.5;
+}
+.contact-text{
+  font-size: 2rem;
+  color:grey;
+}
+
+/*location section*/
+
+#Location{
+  text-align: center;
+  padding-bottom: 5%;
+}
+.one-heading{
+  font-size: 3rem;
+  color:#b99365;
+  text-align: center;
+  padding-bottom: 2%;s
+}
+
+/*footer section*/
+
+#footer{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #b99365;
+  color: #fff;
+}
+
+.social-icon{
+  margin: 20px 10px;
+}
+.copy-right{
+  color: #fff;
+}
